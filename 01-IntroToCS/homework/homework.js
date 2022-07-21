@@ -5,9 +5,9 @@ function BinarioADecimal(num) {
   
 }
 
-function DecimalABinario(num) {
+function DecimalABinario(num) { 
   // tu codigo aca
-
+return num.toString(2) ;
 }
 
 
